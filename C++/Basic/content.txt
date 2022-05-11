@@ -1,0 +1,7 @@
+Basics:
+1- Variables
+2- Input / Output
+3- Logical Statment
+4- Loops
+5- Arrays / 2D Array
+6- Functions
